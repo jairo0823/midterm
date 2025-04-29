@@ -1,0 +1,33 @@
+Short Thesis Paper: Hotel Booking System
+
+1. Introduction and Project Overview
+The Hotel Booking System is a web-based application designed to facilitate the management and reservation of hotel rooms. Developed using the CodeIgniter PHP framework, this system aims to provide an efficient and user-friendly platform for both hotel administrators and customers. The system dynamically handles hotel listings, room availability, bookings, payments, and customer reviews.
+
+2. Objectives
+The primary objectives of the Hotel Booking System are:
+- To provide a centralized platform for managing hotel information and room availability.
+- To enable customers to easily search, book, and pay for hotel rooms online.
+- To allow hotel administrators to manage bookings, payments, and customer reviews efficiently.
+- To improve the overall booking experience by automating key processes and providing real-time updates.
+
+3. Methodology and Features
+The system is structured using the Model-View-Controller (MVC) architecture provided by CodeIgniter, ensuring a clear separation of concerns and maintainability.
+
+Key features include:
+- Hotel Management: Administrators can add, edit, and delete hotel information including name, location, and description.
+- Room Management: The system manages room details and availability, allowing customers to view and select rooms.
+- Booking Management: Customers can create, edit, and cancel bookings. Bookings are linked to specific users and rooms, with validation to ensure data integrity.
+- Payment Processing: The system supports payment creation and management, updating booking statuses upon successful payment.
+- Review System: Customers can submit ratings and comments for hotels, providing feedback to improve service quality.
+- User Authentication: The system includes user registration and login functionalities to secure access to booking and review features.
+
+4. Technologies Used
+- CodeIgniter PHP Framework: Provides the MVC structure and core libraries for rapid development.
+- PHP: Server-side scripting language used for application logic.
+- MySQL: Database management system for storing hotel, room, booking, payment, and user data.
+- HTML/CSS/JavaScript: Frontend technologies for user interface and interaction.
+
+5. Conclusion
+The Hotel Booking System offers a comprehensive solution for managing hotel reservations online. By leveraging the CodeIgniter framework, the system ensures scalability, security, and ease of maintenance. This project demonstrates the effective integration of various components such as booking management, payment processing, and user reviews to deliver a seamless experience for both administrators and customers.
+
+End of Paper
